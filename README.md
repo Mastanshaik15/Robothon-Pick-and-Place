@@ -1,6 +1,11 @@
 🤖 SO101 Pick and Place Robot
 📌 Overview
 
+
+https://github.com/user-attachments/assets/f1785017-1c5e-4399-b8ef-89bcdc68df12
+
+
+
 This project demonstrates an AI-based robotic pick-and-place system using the SO101 robot arm. The system is trained using imitation learning with LeRobot.
 
 🚀 Features
