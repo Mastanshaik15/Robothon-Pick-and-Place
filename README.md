@@ -25,9 +25,7 @@ Teleoperation
 Data Recording
 Training
 Inference
-🎬 Demo
 
-(Add your video link here)
 
 📊 Results
 Smooth pick and place execution
